@@ -60,7 +60,6 @@
         android:background="@color/nav_bg"
         app:itemIconTint="@color/nav_item_color"
         app:itemTextColor="@color/nav_item_color"
-        app:itemActiveIndicatorColor="@color/mepc_gold_translucent"
         app:menu="@menu/bottom_nav_menu"
         app:labelVisibilityMode="labeled" />
 
