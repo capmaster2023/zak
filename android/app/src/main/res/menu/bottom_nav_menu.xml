@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_accueil"
+        android:icon="@drawable/ic_home"
+        android:title="Accueil" />
+
+    <item
+        android:id="@+id/nav_sermons"
+        android:icon="@drawable/ic_sermon"
+        android:title="Sermons" />
+
+    <item
+        android:id="@+id/nav_evenements"
+        android:icon="@drawable/ic_event"
+        android:title="Événements" />
+
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/ic_contact"
+        android:title="Contact" />
+
+</menu>

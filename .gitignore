@@ -1,0 +1,12 @@
+*.jks
+*.keystore
+*.iml
+.gradle/
+.idea/
+android/local.properties
+android/app/build/
+android/.cxx/
+build/
+*.apk
+*.aab
+mepc-keystore.jks

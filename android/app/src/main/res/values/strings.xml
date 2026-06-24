@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MEPC Montréal</string>
+    <string name="nav_accueil">Accueil</string>
+    <string name="nav_sermons">Sermons</string>
+    <string name="nav_evenements">Événements</string>
+    <string name="nav_contact">Contact</string>
+</resources>

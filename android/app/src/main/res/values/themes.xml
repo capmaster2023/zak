@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MEPCMontreal" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/mepc_dark</item>
+        <item name="colorPrimaryVariant">@color/mepc_blue</item>
+        <item name="colorSecondary">@color/mepc_gold</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/mepc_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="toolbarStyle">@style/MEPCToolbar</item>
+    </style>
+
+    <style name="Theme.MEPCMontreal.Splash" parent="Theme.MEPCMontreal">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="MEPCToolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@color/toolbar_bg</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="subtitleTextColor">@color/mepc_gold</item>
+        <item name="navigationIconTint">@color/white</item>
+    </style>
+
+</resources>
